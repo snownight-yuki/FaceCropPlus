@@ -1,0 +1,5 @@
+Pillow>=9.0
+ultralytics>=8.0.31
+realesrgan
+opencv-python
+numpy==1.26.4
