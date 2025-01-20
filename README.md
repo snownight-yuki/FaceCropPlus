@@ -58,7 +58,7 @@ pip3 install torch==1.13.0 torchvision --index-url https://download.pytorch.org/
    pip3 install torch==1.13.0 torchvision --index-url https://download.pytorch.org/whl/cu117
    ```
 
-## 追加のセットアップ
+## 必須のセットアップ
 
 1. 必要なモデルをダウンロード:
 
@@ -146,7 +146,7 @@ It is strongly recommended to use a virtual environment to isolate dependencies.
    pip3 install torch==1.13.0 torchvision --index-url https://download.pytorch.org/whl/cu117
    ```
 
-## Additional Setup
+## Required Setup
 
 1. Download the required models:
 
