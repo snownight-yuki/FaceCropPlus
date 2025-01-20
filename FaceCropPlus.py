@@ -226,7 +226,7 @@ class ImageCropperWithFaceDetection:
             self.canvas.create_rectangle(
                 hx - handle_size, hy - handle_size,
                 hx + handle_size, hy + handle_size,
-                fill="blue", outline="black", tags=tag
+                fill="red", outline="black", tags=tag
             )
             self.canvas.tag_bind(tag, "<ButtonPress-1>", lambda event, i=idx: self.start_resize(i))
             self.canvas.tag_bind(tag, "<ButtonRelease-1>", self.end_resize)
