@@ -172,9 +172,6 @@ It is strongly recommended to use a virtual environment to isolate dependencies.
 2. Verify that both files are in the correct location before running the script.
 
 ## Running the Script
-
-The cropping area can be freely resized and moved, allowing intuitive adjustments to the face region.
-
 Once all dependencies and models are in place, execute the script with the following command:
 
 ```bash
