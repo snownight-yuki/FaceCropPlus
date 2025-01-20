@@ -17,8 +17,6 @@
 ```plaintext
 Pillow>=9.0
 ultralytics>=8.0.31
-torch==1.13.0
-torchvision==0.14.0
 realesrgan
 opencv-python
 numpy==1.26.4
@@ -105,8 +103,6 @@ Ensure the following Python packages are installed:
 ```plaintext
 Pillow>=9.0
 ultralytics>=8.0.31
-torch==1.13.0
-torchvision==0.14.0
 realesrgan
 opencv-python
 numpy==1.26.4
